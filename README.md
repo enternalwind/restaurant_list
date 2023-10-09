@@ -14,5 +14,11 @@ using express.js to be MVC Model
 using javascript and bootstrap
 
 ### Controller
+app.js
+It is controlling the routing
+
+Listing /restaurants
+Reading /restaurant/:id
+Searching /restaurants?search=xxx
 
 
