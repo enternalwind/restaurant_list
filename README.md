@@ -17,7 +17,7 @@ detail.hbs
 
 ### Controller
 app.js
-It is controlling the route
+It is controlling the route.
 
 
 Listing /restaurants
