@@ -13,7 +13,9 @@ app.get('/',(req,res)=>{
     res.redirect('/restaurants');
 });
 app.get('/restaurants', (req,res)=>{
-    res.send('listiing restaurants');
+    console.log(`https://localhost3000/restaurant`);
+    res.render('index');
+
 });
 
 app.get('/restaurant/:id', (req,res)=>{
