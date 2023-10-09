@@ -12,10 +12,13 @@ using express.js to be MVC Model
 
 ### View
 using javascript and bootstrap
+index.hbs
+detail.hbs
 
 ### Controller
 app.js
-It is controlling the routing
+It is controlling the route
+
 
 Listing /restaurants
 Reading /restaurant/:id
